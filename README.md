@@ -9,7 +9,6 @@ A calculadora foi desenvolvida com o objetivo de ajudar as pessoas a se organiza
 -Operações básicas: adição, subtração, multiplicação e divisão
 
 -Cálculo com ponto decimal
-
 -Botão "C" para limpar o visor
 
 -Botão "<" para apagar o último caractere
