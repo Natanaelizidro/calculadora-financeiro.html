@@ -1,8 +1,8 @@
-💸 Calculadora de Orçamento Pessoal
+##💸 Calculadora de Orçamento Pessoal
 
 A calculadora foi desenvolvida com o objetivo de ajudar as pessoas a se organizarem financeiramente com mais facilidade
 
-⚙️ Funcionalidades
+##⚙️ Funcionalidades
 
 Interface moderna e responsiva
 
