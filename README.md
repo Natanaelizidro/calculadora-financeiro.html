@@ -5,12 +5,9 @@ A calculadora foi desenvolvida com o objetivo de ajudar as pessoas a se organiza
 💻 Tecnologias utilizadas:
 
 JavaScript (ES6+);
-
 HTML5;
-
-Python
-
-C++
+Python;
+C++;
 
 📚 O que eu aprendi
 
