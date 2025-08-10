@@ -1,4 +1,4 @@
-Calculadora de Orçamento Pessoal
+💸Calculadora de Orçamento Pessoal
 
 Objetivo
 
